@@ -138,6 +138,8 @@ body {
  
  /*Store*/
 .content #content-1 {
+  border:solid 3px #ccc;
+  border-radius:5px;
   color: #fff;
   background: url(/img/background-content.gif);
   background-size: 105%;
